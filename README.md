@@ -8,3 +8,4 @@ This is an interactive visualization that allows you to select an area to change
 
 ### WARNING SLOW VISUALIZATION
 {% include geoSpat.html %}
+This is an interactive visualization that allows you to zoom in and out and hover over data points to find actual sentiment values and coordinates. Blue indicates positive sentiment, red negative, and white/grey indicates neutral.
