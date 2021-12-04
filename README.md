@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/jihnpk/CS432Proj3/edit/mai
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+{% include CovidData.html %}
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
