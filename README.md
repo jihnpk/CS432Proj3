@@ -14,3 +14,13 @@ This is an interactive visualization that allows you to select an area to change
 </div>
 This is an interactive visualization that allows you to zoom in and out and hover over data points to find actual sentiment values and coordinates. Blue indicates positive sentiment, red negative, and white/grey indicates neutral.
 
+<script>
+function func() {
+  var x = document.getElementById("geoSpat");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
